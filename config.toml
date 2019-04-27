@@ -33,7 +33,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   # Metadata mostly used in document's head
   description          = "Call me Tan, dream to become a master." 
-  images = ["https://github.com/fluidicon.png"]
+  favicon              = ["https://github.com/fluidicon.png"]
   themeColor = "#494f5c"
 
   homeSubtitle = "Alon Alon Penting Kelakon."
