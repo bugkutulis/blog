@@ -30,15 +30,15 @@ perl —e 'exec "/bin/sh";'
 ```
 atau
 ```
-perl: exec "/bin/sh";
+exec "/bin/sh";
 ```
 * Ruby : 
 ```
-ruby: exec "/bin/sh"
+exec "/bin/sh"
 ```
 * lua : 
 ```
-lua: os.execute('/bin/sh')
+os.execute('/bin/sh')
 ```
 * From within IRB : 
 ```
