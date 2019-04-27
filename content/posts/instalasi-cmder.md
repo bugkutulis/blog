@@ -24,6 +24,14 @@ Untuk insalasinya:
 Berikut ampilan **CMDER**. Di sini saya mencoba menggunakan command *ls* dan *uname -a* milik tetangga.
 {{< figure src="https://raw.githubusercontent.com/tanmyid/blog/master/img/cmder.PNG" alt="cmder" caption="Interface CMDER" >}}
 
+Contoh:
+
+```
+λ uname -a
+MSYS_NT-10.0 BUKANSARJANA 2.10.0(0.325/5/3) 2018-07-25 13:06 x86_64 Msys
+```
+
+
 Klik icon + hijau di kiri bawah untuk membuat console atau jendela baru. Kalian juga bisa menginginkan cmder di jalankan sebagai administrator.
 {{< figure src="https://raw.githubusercontent.com/tanmyid/blog/master/img/cmdertambah.PNG" alt="add console" caption="Menambah Console CMDER" >}}
 
