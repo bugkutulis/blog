@@ -32,8 +32,8 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description          = "Call me Tan, dream to become a master." 
-  favicon              = ["https://github.com/fluidicon.png"]
+  description          = "Call me Tan, dream to become a master."
+  favicon              = ["favicon.ico"]
   themeColor = "#494f5c"
 
   homeSubtitle = "Alon Alon Penting Kelakon."
