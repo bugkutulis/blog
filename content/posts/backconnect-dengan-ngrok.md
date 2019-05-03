@@ -1,5 +1,5 @@
 ---
-title: "Backconnect Shell Dengan Ngrok"
+title: "Backconnect Server Dengan Ngrok"
 date: 2019-05-03T08:46:38+07:00
 draft: false
 toc: false
