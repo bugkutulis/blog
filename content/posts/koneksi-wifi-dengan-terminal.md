@@ -1,7 +1,6 @@
 ---
 title: "Mengkoneksikan Wifi Dengan Terminal Linux"
 date: 2019-05-15T18:03:32+07:00
-draft: false
 toc: false
 images:
 tags: 
